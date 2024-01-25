@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jacob-Boykin
 - 👀 I’m interested in Game development/Graphic Design/Software Design
-- 🌱 I currently know C, C++, Python, Java, and basic HTML.
+- 🌱 I currently know C, C++, Python, Java, HTML5, Javascript,CSS.
 - 🤝 I’m looking to collaborate on anything and everything.
 - 📫 How to reach me, Email: jmboykin@crimson.ua.edu
 
